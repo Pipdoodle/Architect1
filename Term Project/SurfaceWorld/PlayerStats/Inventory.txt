@@ -1,0 +1,15 @@
+Build:Brick:22 
+Build:Bed:14 
+Build:Table:14 
+Build:Candy:9 
+Build:Wood:16 
+Build:FirePlace:12 
+Build:Chocolate:13 
+Build:Moss:14 
+Build:Door:5 
+Build:Steel:1 
+Build:Glass:1 
+Build:Roof:1 
+Build:Window:10 
+Build:Sugar:1 
+Money:1000

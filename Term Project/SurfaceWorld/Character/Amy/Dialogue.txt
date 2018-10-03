@@ -1,0 +1,11 @@
+customer:
+Hello! You can call me Amy!
+I need a new house made of stone, wood, and candy! 
+Thank you very much!
+customerRoom:
+Wow, this is... a very empty shop.
+You know, even if your shop is very empty right now, I'm sure it will turn out well for you!
+Outside:
+It's so nice outside!
+Random:
+Hey!

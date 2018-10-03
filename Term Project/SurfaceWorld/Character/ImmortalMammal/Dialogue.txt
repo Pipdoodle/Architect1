@@ -1,0 +1,18 @@
+customer:
+Hello! You can call me Dr. I.M.
+Sadly, I don't have time to talk today, although you are free to stop by my office anytime!
+I heard you will build houses for relative cheap prices? I need a new house located anywhere in the village. 
+I would like a fireplace, some chocolate; m&ms preferably but I suppose any kind would do.
+Just no raisins, if you add raisins... anyway, and some candy as well. 
+Thank you very much, and welcome to the village. It was a pleasure meeting you. 
+customerRoom:
+Hey! If you need supplies, at 12 I'll be able to sell you supplies. Talk to me at 12 oclock. 
+Did you ever wonder about the potential of immortality?
+I'll tell you a secret, I am immortal.
+I mean I've outlived millions of clams; therefore I am immortal. 
+Random:
+Hello! I'm Mammal
+Excuse me, I have things to be doing.
+Would you like to engage in a debate? Otherwise I must be on my way. 
+
+

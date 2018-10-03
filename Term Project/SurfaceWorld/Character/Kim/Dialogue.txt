@@ -1,0 +1,9 @@
+customer:
+Hello! You can call me Kim!
+I need a new house located anywhere in the village. 
+A would like a bed, brick and a table.
+Thank you very much!
+customerRoom:
+Hey! How do you manage to build all the things yourself? 
+Random:
+Hey! I'm Kim!

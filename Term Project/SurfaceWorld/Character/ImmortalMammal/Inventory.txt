@@ -1,0 +1,13 @@
+Brick:10:43
+Wood:10:48
+Door:15:26
+Chocolate:15:29
+Sugar:10:20
+Window:15:20
+Bed:30:14
+Table:35:14
+FirePlace:100:17
+Steel:18:20
+Glass:200:10
+Moss:45:3
+Roof:92:2

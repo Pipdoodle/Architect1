@@ -1,0 +1,11 @@
+Room: bedRoom
+PlayerX: 860
+PlayerY: 280
+Month: 12
+Day: 8
+Year: 2017
+GameDay: 8
+GameMonth: 12
+GameYear: 2017
+GameHour: 16
+GameMinute: 58

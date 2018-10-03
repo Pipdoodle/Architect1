@@ -1,0 +1,34 @@
+First Name:Amy 
+Last Name:Liu
+Personality:Intelligent
+House:None
+Occupation: Debates against Immortals
+Schedule:1:house:200:200
+Schedule:2:house:202:200
+Schedule:3:house:200:200
+Schedule:4:house:200:200
+Schedule:5:house:200:200
+Schedule:6:house:200:200
+Schedule:7:house:200:200
+Schedule:8:house:200:200
+Schedule:9:house:200:200
+Schedule:10:Outside:600:600
+Schedule:11:house:200:200
+Schedule:12:house:200:200
+Schedule:13:customerRoom:600:600
+Schedule:14:customerRoom:600:600
+Schedule:15:house:200:200
+Schedule:16:house:200:200
+Schedule:17:house:200:200
+Schedule:18:house:200:200
+Schedule:19:house:200:200
+Schedule:20:house:200:200
+Schedule:21:house:200:200
+Schedule:22:house:200:200
+Schedule:23:house:200:200
+Schedule:24:house:200:200
+Task:Stone:Wood:Candy
+downImage:Images\\downK.png
+upImage:Images\\upK.png
+rightImage:Images\\rightK.png
+leftImage:Images\\leftK.png

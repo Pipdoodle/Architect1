@@ -1,0 +1,13 @@
+Text: The bookshelf is full of books!
+Text: The books range from new to old.
+Text: Some of these books you haven't touched in years. 
+Text: If only you had time to read them...
+Text: *ahem* you haven't read them again since you don't have time to read them.
+Text: Really, you have better things to be doing than staring at a book!
+Text: Um, you realize you don't have arms so you can't actually read the book.
+Text: Please, go do something else. Leave the bookshelf in peace!
+Text: Bookshelf: I am the bookshelf! Go interact with something else! 
+Text: Bookshelf: Bother the bed instead!
+Text: Bookshelf: Okay I give up! Continue admiring me!
+Text: Bookshelf: I'm so beautiful aren't I!
+Text: You decide you're going crazy narrating the bookshelf and decide to go do something else.

@@ -1,0 +1,5 @@
+Move
+customerRoom
+Exit
+1050
+50

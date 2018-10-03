@@ -1,0 +1,12 @@
+customer:
+Hello! You can call me Katie!
+I need a new house located anywhere in the village. 
+I would like a bed,table and some moss please!
+Thank you!
+customerRoom:
+The design of this room is very nice!
+Have you ever seen a wug? I love wugs.
+Maybe oneday if you're lucky you'll get to see a real wug!
+Random:
+Hey!I'm Katie!
+Did you ever wonder, if you were stuck in a zombie apocalpyse what building would you live in?

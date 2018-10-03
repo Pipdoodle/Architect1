@@ -1,0 +1,5 @@
+Move
+Outside0
+Exit
+650
+690
